@@ -52,3 +52,5 @@ end
   hash.each { |school, location| locations[location.values[0]] << school }
   locations
 end 
+
+##This challenge was extremely difficult 
